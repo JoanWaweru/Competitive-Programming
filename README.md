@@ -1,2 +1,2 @@
 # Competitive-Programming
-Practice Codes from HackerRank, Leetcode and Codilty
+Practice Codes from HackerRank, Leetcode and CodeForces
