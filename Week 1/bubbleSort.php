@@ -17,7 +17,7 @@ function countSwaps($a) {
         {
         // Swap adjacent elements if they are in decreasing order
             if ($a[$j] > $a[$j + 1]) {
-                //swap($a[$j], $a[$j + 1]);
+              
                 $t = $a[$j];
                 $a[$j] = $a[$j+1];
                 $a[$j+1] = $t;
