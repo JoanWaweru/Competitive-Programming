@@ -1,3 +1,4 @@
+<?php
 class Solution {
 
     /**
@@ -24,4 +25,4 @@ class Solution {
                 array_push($number,"$i");}          
         }return $number;
     }
-}
+}?>
