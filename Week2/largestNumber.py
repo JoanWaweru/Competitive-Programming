@@ -12,6 +12,4 @@ class Solution:
             
         nums = sorted(nums, key = cmp_to_key(compare))
         
-        
-        
         return str(int("".join(nums)))
